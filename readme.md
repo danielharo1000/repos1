@@ -5,13 +5,14 @@ njksjbkjnbdkfjdkjfksjnjndf
 + viñeta2
 + viñeta3
 
-...python
+```python
 import numpy
 
 def main()
     variable=3.2
 
-if __name__ ='main'
+if __name__ = 'main'
 main()
 
-...
+```
+
